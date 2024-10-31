@@ -1,0 +1,28 @@
+        body{
+            background-color: aliceblue;
+        }
+        h1{
+            font-weight: bold;
+            font-size: 3em;
+            text-align: center;
+        }
+        .aligned{
+            text-align: center;
+        }
+        .button1{
+            background-color: lightskyblue;
+            color: black;
+            font-weight: bold;
+            padding: 15px;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            transition: 0.25s
+        }
+        .button1:hover{
+            color: white;
+            background-color: blue;
+        }
+        #submit{
+            cursor: pointer;
+        }
